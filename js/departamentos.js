@@ -1,10 +1,13 @@
 
 
-
-
 const clave = localStorage.getItem('departamento')
 
 const titulo = document.getElementById("nombreDepto")
+
+const boton = document.getElementById("boton")
+
+//Volver al index
+
 
 
 
@@ -28,6 +31,12 @@ fetch(`js/${clave}.json`)
     <img src="Fotos/${element.img}.jpg">
     <h3>${element.nombre}</h3>
     `
+           // Guardo numero de seccion en localStorage y redirijo a la pagina del pesquero.
+           card.addEventListener("click", () => {
+                localStorage.setItem("numero", element.seccion);
+                window.location.href= "./pesqueros.html"
+            })
+
 
             container.appendChild(card);
         });

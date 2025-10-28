@@ -16,7 +16,7 @@
   {
     "nombre": "Escollera Sarandí",
     "departamento": "Montevideo",
-    "seccion": 1,
+    "seccion": 2,
     "descripcion": "Muy buen lugar para pesca variada cerca del puerto.",
     "acceso": "Medio",
     "profundidad": 4,
@@ -30,7 +30,7 @@
     {
     "nombre": "Parque Rodó",
     "departamento": "departamento",
-    "seccion": 1,
+    "seccion": 3,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -44,7 +44,7 @@
     {
     "nombre": "Punta Carretas",
     "departamento": "Montevideo",
-    "seccion": 1,
+    "seccion": 4,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -58,7 +58,7 @@
     {
     "nombre": "Puerto Buceo",
     "departamento": "Montevideo",
-    "seccion": 1,
+    "seccion": 5,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -72,7 +72,7 @@
     {
     "nombre": "Malvin y Punta Gorda",
     "departamento": "Montevideo",
-    "seccion": 1,
+    "seccion": 6,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -86,7 +86,7 @@
       {
     "nombre": "Carrasco",
     "departamento": "Montevideo",
-    "seccion": 1,
+    "seccion": 7,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,

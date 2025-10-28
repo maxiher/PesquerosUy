@@ -2,7 +2,7 @@
    {
     "nombre": "Balneario Solis",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 0,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -16,7 +16,7 @@
               {
     "nombre": "Bella Vista",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 1,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -30,7 +30,7 @@
               {
     "nombre": "Piriápolis",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 2,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -58,7 +58,7 @@
               {
     "nombre": "Punta Negra",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 4,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -72,7 +72,7 @@
               {
     "nombre": "Ocean Park",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 5,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -86,7 +86,7 @@
               {
     "nombre": "Punta Ballena",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 6,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -100,7 +100,7 @@
               {
     "nombre": "Punta del Este",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 7,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -114,7 +114,7 @@
               {
     "nombre": "Manantiales",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 8,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -128,7 +128,7 @@
               {
     "nombre": "Santa Monica",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 9,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -142,7 +142,7 @@
               {
     "nombre": "José Ignacio",
     "departamento": "Maldonado",
-    "seccion": 3,
+    "seccion": 10,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,

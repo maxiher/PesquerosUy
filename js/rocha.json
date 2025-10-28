@@ -2,7 +2,7 @@
                  {
     "nombre": "Las Garzas",
     "departamento": "Rocha",
-    "seccion": 4,
+    "seccion": 1,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -16,7 +16,7 @@
                 {
     "nombre": "La Paloma",
     "departamento": "Rocha",
-    "seccion": 4,
+    "seccion": 2,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -30,7 +30,7 @@
                 {
     "nombre": "La Pedrera",
     "departamento": "Rocha",
-    "seccion": 4,
+    "seccion": 3,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -58,7 +58,7 @@
                 {
     "nombre": "Punta del Diablo",
     "departamento": "Rocha",
-    "seccion": 4,
+    "seccion": 5,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -72,7 +72,7 @@
                 {
     "nombre": "La Coronilla",
     "departamento": "Rocha",
-    "seccion": 4,
+    "seccion": 6,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,

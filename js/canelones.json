@@ -2,7 +2,7 @@
         {
     "nombre": "Ciudad de la Costa",
     "departamento": "Canelones",
-    "seccion": 1,
+    "seccion": 0,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -16,7 +16,7 @@
           {
     "nombre": "Pinamar - Marindia",
     "departamento": "Canelones",
-    "seccion": 2,
+    "seccion": 1,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -30,7 +30,7 @@
             {
     "nombre": "El Águila",
     "departamento": "Canelones",
-    "seccion": 3,
+    "seccion": 2,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -44,7 +44,7 @@
             {
     "nombre": "Las Toscas",
     "departamento": "Canelones",
-    "seccion": 4,
+    "seccion": 3,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -58,7 +58,7 @@
             {
     "nombre": "La Floresta",
     "departamento": "Canelones",
-    "seccion": 5,
+    "seccion": 4,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -72,7 +72,7 @@
             {
     "nombre": "Araminda",
     "departamento": "Canelones",
-    "seccion": 6,
+    "seccion": 5,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -86,7 +86,7 @@
             {
     "nombre": "Santa Lucia del Este",
     "departamento": "Canelones",
-    "seccion": 7,
+    "seccion": 6,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
@@ -100,7 +100,7 @@
             {
     "nombre": "Chuchilla Alta",
     "departamento": "Canelones",
-    "seccion": 8,
+    "seccion": 7,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,

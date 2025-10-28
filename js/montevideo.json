@@ -1,0 +1,103 @@
+[
+  {
+    "nombre": "Playa Pocitos",
+    "departamento": "Montevideo",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+  {
+    "nombre": "Escollera Sarandí",
+    "departamento": "Montevideo",
+    "seccion": 1,
+    "descripcion": "Muy buen lugar para pesca variada cerca del puerto.",
+    "acceso": "Medio",
+    "profundidad": 4,
+    "imagenes": ["sarandi1.jpg"],
+    "especies": ["Corvina", "Mero"],
+    "ubicacion": {
+      "lat": -34.90,
+      "lng": -56.20
+    }
+  },
+    {
+    "nombre": "Parque Rodó",
+    "departamento": "departamento",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+    {
+    "nombre": "Punta Carretas",
+    "departamento": "Montevideo",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+    {
+    "nombre": "Puerto Buceo",
+    "departamento": "Montevideo",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+    {
+    "nombre": "Malvin y Punta Gorda",
+    "departamento": "Montevideo",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+      {
+    "nombre": "Carrasco",
+    "departamento": "Montevideo",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  }
+]
+
+
+ 

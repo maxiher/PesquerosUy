@@ -1,0 +1,156 @@
+[
+   {
+    "nombre": "Balneario Solis",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Bella Vista",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Piriápolis",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Punta Colorada",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Punta Negra",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Ocean Park",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Punta Ballena",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Punta del Este",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Manantiales",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "Santa Monica",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+              {
+    "nombre": "José Ignacio",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+        {
+    "nombre": "Ciudad de la Costa",
+    "departamento": "Canelones",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+    },
+          {
+    "nombre": "Pinamar - Marindia",
+    "departamento": "Canelones",
+    "seccion": 2,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+            {
+    "nombre": "El Águila",
+    "departamento": "Canelones",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Burriqueta", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+            {
+    "nombre": "Las Toscas",
+    "departamento": "Canelones",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola", "Burriqueta", "Pescadilla"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+            {
+    "nombre": "La Floresta",
+    "departamento": "Canelones",
+    "seccion": 5,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+            {
+    "nombre": "Araminda",
+    "departamento": "Canelones",
+    "seccion": 6,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+            {
+    "nombre": "Santa Lucia del Este",
+    "departamento": "Canelones",
+    "seccion": 7,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+            {
+    "nombre": "Chuchilla Alta",
+    "departamento": "Canelones",
+    "seccion": 8,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  }
+]

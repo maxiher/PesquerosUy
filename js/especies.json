@@ -1,0 +1,98 @@
+
+[
+  {
+    "nombre": "Pejerrey",
+    "metodo": "Línea de flote / Fondo",
+    "carnada": "Camarón, Langostino, Higado de Pollo",
+    "temporada": "Invierno - primavera"
+  },
+  {
+    "nombre": "Corvina Blanca",
+    "metodo": "De fondo",
+    "carnada": "Camarón, Langostino, Mejillon, Lisa, Pejerrey",
+    "temporada": "Septiembre - Abril"
+  },
+  {
+    "nombre": "Brótola",
+    "metodo": "De fondo",
+    "carnada": "Lisa, Camarón, Lacha, Pejerrey, Carnada Blanca, Peces Pequeños, Cangrejos",
+    "temporada": "Mayo - Septiembre"
+  },
+  {
+  "nombre": "Pescadilla",
+  "metodo": "De fondo",
+  "carnada": "Carnada Blanca, Camarón, Langostino, Calamarete",
+  "temporada": "?",
+  "informacion": ""
+  },
+    {
+  "nombre": "Anchoa",
+  "metodo": "Media Agua?",
+  "carnada": "Pejerrey, Lisa, Carnadas Blancas, Camarón, Langostino",
+  "temporada": "Invierno - Primavera",
+  "informacion": ""
+  },
+    {
+  "nombre": "Mochuelo",
+  "metodo": "De fondo",
+  "carnada": "Lisa, Camarón, Carnada Blanca, Calamarete",
+  "temporada": "Todo el año",
+  "informacion": ""
+  },
+    {
+  "nombre": "Sargo",
+  "metodo": "De fondo",
+  "carnada": "Camarón, Langostino, Mejillón",
+  "temporada": "Mayo - Septiembre???",
+  "informacion": ""
+  },
+    {
+  "nombre": "Lisa",
+  "metodo": "Con Robador",
+  "carnada": "",
+  "temporada": "????",
+  "informacion": ""
+  },
+    {
+  "nombre": "Ajorreal",
+  "metodo": "De fondo",
+  "carnada": "Carnada Blanca, Moluscos",
+  "temporada": "????",
+  "informacion": ""
+  },
+    {
+  "nombre": "Burriqueta",
+  "metodo": "De fondo",
+  "carnada": "Lisa, Camarón, Langostino, Sardina, Pejerrey",
+  "temporada": "Agosto - Noviembre",
+  "informacion": ""
+  },
+    {
+  "nombre": "Corvina Negra",
+  "metodo": "De fondo",
+  "carnada": "Cangrejo, Muergo, Mejillon, Langostino, Camarón",
+  "temporada": "Septiembre - Febrero",
+  "informacion": ""
+  },
+    {
+  "nombre": "Lenguado",
+  "metodo": "Spinning, Baitcasting, de Fondo",
+  "carnada": "Pejerrey, Pejerrey, Carnada Blanca",
+  "temporada": "Enero - Abril",
+  "informacion": ""
+  },
+  {
+  "nombre": "Pargo Blanco",
+  "metodo": "De fondo",
+  "carnada": "Camaron, Langostino, Cangrejo",
+  "temporada": "Mayo - Septiembre",
+  "informacion": ""
+  },
+    {
+  "nombre": "Brótola",
+  "metodo": "De fondo",
+  "carnada": " Carnada",
+  "temporada": "Mayo - Septiembre",
+  "informacion": ""
+  }
+]

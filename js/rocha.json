@@ -1,0 +1,86 @@
+[ 
+                 {
+    "nombre": "Las Garzas",
+    "departamento": "Rocha",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+                {
+    "nombre": "La Paloma",
+    "departamento": "Rocha",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+                {
+    "nombre": "La Pedrera",
+    "departamento": "Rocha",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+                {
+    "nombre": "La Esmeralda",
+    "departamento": "Rocha",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+                {
+    "nombre": "Punta del Diablo",
+    "departamento": "Rocha",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  },
+                {
+    "nombre": "La Coronilla",
+    "departamento": "Rocha",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Fácil",
+    "profundidad": 2,
+    "imagenes": ["pocitos1.jpg"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.91,
+      "lng": -56.16
+    }
+  }
+]

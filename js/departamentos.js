@@ -23,18 +23,21 @@ fetch(`js/${clave}.json`)
         container.classList.add("grid")
 
         data.forEach(element => {
+
             const card = document.createElement("div");
             card.classList.add("card");
 
+            const imagen = element.imagenes[0];
+
             //TARJETA CON IMAGEN
             card.innerHTML = `
-    <img src="Fotos/${element.img}.jpg">
+    <img src="${imagen}" loading="lazy" alt="Playa de ${element.nombre}">
     <h3>${element.nombre}</h3>
     `
-           // Guardo numero de seccion en localStorage y redirijo a la pagina del pesquero.
-           card.addEventListener("click", () => {
+            // Guardo numero de seccion en localStorage y redirijo a la pagina del pesquero.
+            card.addEventListener("click", () => {
                 localStorage.setItem("numero", element.seccion);
-                window.location.href= "./pesqueros.html"
+                window.location.href = "./pesqueros.html"
             })
 
 

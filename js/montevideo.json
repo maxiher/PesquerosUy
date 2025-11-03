@@ -8,6 +8,8 @@
     "profundidad": 2,
     "imagenes": ["pocitos1.jpg"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": "2",
+    "suelo": "Arena, Cemento, Piedras",
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16
@@ -22,6 +24,8 @@
     "profundidad": 4,
     "imagenes": ["sarandi1.jpg"],
     "especies": ["Corvina", "Mero"],
+    "enganche": " ",
+    "suelo": " ",
     "ubicacion": {
       "lat": -34.90,
       "lng": -56.20
@@ -36,6 +40,8 @@
     "profundidad": 2,
     "imagenes": ["pocitos1.jpg"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": " ",
+    "suelo": " ",
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16
@@ -50,6 +56,9 @@
     "profundidad": 2,
     "imagenes": ["pocitos1.jpg"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": "3",
+    "suelo": "Piedras y Arena",
+    "profundidad": "1",
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16
@@ -64,6 +73,8 @@
     "profundidad": 2,
     "imagenes": ["pocitos1.jpg"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": " ",
+    "suelo": " ",
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16
@@ -78,6 +89,9 @@
     "profundidad": 2,
     "imagenes": ["pocitos1.jpg"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": "2",
+    "suelo": "arena",
+    "profundidad": "1",
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16
@@ -92,6 +106,9 @@
     "profundidad": 2,
     "imagenes": ["pocitos1.jpg"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": "1",
+    "suelo": "arena",
+    "profundidad": "1",
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16

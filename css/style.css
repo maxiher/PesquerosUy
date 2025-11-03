@@ -1,9 +1,10 @@
   
     html {
-      background-image: url('/Fotos/unnamed.webp');
+      background-image: url('../Fotos/unnamed.webp');
       background-repeat: no-repeat;
       background-size: cover;
     }
+    
 
     body {
       font-family: Arial, sans-serif;

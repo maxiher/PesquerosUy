@@ -6,7 +6,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/solis.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -20,7 +20,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/bellavista.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -34,7 +34,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/piriapolis.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -48,7 +48,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/puntacolorada.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -62,7 +62,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/puntanegra.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -76,7 +76,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/oceanpark.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -90,7 +90,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/puntaballena.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -104,7 +104,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/puntadeleste.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -118,7 +118,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/manantiales.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -132,7 +132,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/santamonica.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,
@@ -146,7 +146,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["pocitos1.jpg"],
+    "imagenes": ["Fotos/maldonado/joseignacio.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,

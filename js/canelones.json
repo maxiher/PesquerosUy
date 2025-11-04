@@ -6,7 +6,7 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "imagenes": ["/Fotos/canelones/ciudaddelacosta.webp"],
+    "imagenes": ["Fotos/canelones/ciudaddelacosta.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
       "lat": -34.91,

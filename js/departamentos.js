@@ -11,7 +11,7 @@ const boton = document.getElementById("boton")
 
 
 
-fetch(`js/${clave}.json`)
+fetch(`JSON/${clave}.json`)
     .then(res => res.json())
     .then(data => {
         // CAMBIO EL TITULO

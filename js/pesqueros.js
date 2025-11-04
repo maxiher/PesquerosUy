@@ -7,7 +7,7 @@ const clave = localStorage.getItem('departamento')
 
 const seccion = localStorage.getItem('numero')
 
-const JSON = `js/${clave}.json`
+const JSON = `JSON/${clave}.json`
 
 
 //El boton lleva atras

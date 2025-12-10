@@ -6,11 +6,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 1,
     "imagenes": ["Fotos/canelones/ciudaddelacosta.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.827828,
+      "lng": -55.941223
     }
     },
           {
@@ -20,11 +21,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 1,
     "imagenes": ["Fotos/canelones/salinas.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.780292,
+      "lng": -55.826212
     }
   },
             {
@@ -34,11 +36,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 1,
     "imagenes": ["Fotos/canelones/elaguila.webp"],
     "especies": ["Pejerrey", "Burriqueta", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.770762,
+      "lng": -55.779100
     }
   },
 
@@ -49,11 +52,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 3,
     "imagenes": ["Fotos/canelones/piedralisa.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola", "Burriqueta", "Pescadilla"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.780904,
+      "lng": -55.752544
     }
   },
             {
@@ -63,11 +67,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 2,
     "imagenes": ["Fotos/canelones/lastoscas.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola", "Burriqueta", "Pescadilla"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.774259,
+      "lng": -55.737204
     }
   },
             {
@@ -77,11 +82,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 2,
     "imagenes": ["Fotos/canelones/lafloresta.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.762564,
+      "lng": -55.674646
     }
   },
             {
@@ -91,11 +97,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 3,
     "imagenes": ["Fotos/canelones/araminda.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.788185,
+      "lng": -55.556226
     }
   },
             {
@@ -105,11 +112,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 3,
     "imagenes": ["Fotos/canelones/santaluciadeleste.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.797635,
+      "lng": -55.528556
     }
   },
             {
@@ -119,11 +127,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 3,
     "imagenes": ["Fotos/canelones/cuchillaalta.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.798130,
+      "lng": -55.497599
     }
   }
 ]

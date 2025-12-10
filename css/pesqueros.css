@@ -46,26 +46,14 @@ header h1 {
 }
 
 .tag {
-  background: #e0f2fe;
-  color: #0369a1;
+  background: #000000;
+  color: #ffffff;
   padding: 4px 8px;
   border-radius: 8px;
-  font-size: 14px;
+  font-size: 25px;
 }
 
-/*
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 12px;
-}
-*/
 
-table td, table th {
-  border: 1px solid #ddd;
-  padding: 8px;
-  font-size: 14px;
-}
 
 .map {
   margin-top: 12px;

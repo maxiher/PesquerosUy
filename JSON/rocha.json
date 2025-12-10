@@ -6,11 +6,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 2,
     "imagenes": ["Fotos/rocha/lasgarzas.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.729899,
+      "lng": -54.400800
     }
   },
                 {
@@ -20,11 +21,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 2,
     "imagenes": ["Fotos/rocha/escolleralapaloma.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.651348,
+      "lng": -54.141587
     }
   },
                 {
@@ -34,11 +36,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 3,
     "imagenes": ["Fotos/rocha/lapedrera.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.593673,
+      "lng": -54.121311
     }
   },
                 {
@@ -48,11 +51,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 1,
     "imagenes": ["Fotos/rocha/laesmeralda.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.169003,
+      "lng": -53.683653
     }
   },
                 {
@@ -62,11 +66,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 3,
     "imagenes": ["Fotos/rocha/puntadeldiablo.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -34.044613,
+      "lng": -53.534582
     }
   },
                 {
@@ -76,11 +81,12 @@
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
     "acceso": "Fácil",
     "profundidad": 2,
+    "enganche": 1,
     "imagenes": ["Fotos/rocha/lacoronilla.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
     "ubicacion": {
-      "lat": -34.91,
-      "lng": -56.16
+      "lat": -33.897275,
+      "lng": -53.508131
     }
   }
 ]

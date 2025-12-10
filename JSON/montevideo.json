@@ -8,7 +8,7 @@
     "profundidad": 4,
     "imagenes": ["Fotos/Montevideo/escollerasarandi.webp"],
     "especies": ["Corvina", "Mero"],
-    "enganche": "3",
+    "enganche": 3,
     "ubicacion": {
       "lat": -34.913351,
       "lng": -56.221967
@@ -19,11 +19,11 @@
     "departamento": "departamento",
     "seccion": 1,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
+    "acceso": "Facil",
     "profundidad": 2,
     "imagenes": ["Fotos/Montevideo/parquerodo.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "enganche": "2",
+    "enganche": 2,
     "ubicacion": {
       "lat": -34.91,
       "lng": -56.16
@@ -34,11 +34,11 @@
     "departamento": "Montevideo",
     "seccion": 2,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
+    "acceso": "Facil",
     "profundidad": 2,
     "imagenes": ["Fotos/Montevideo/puntacarretas.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "enganche": "3",
+    "enganche": 3,
     "ubicacion": {
       "lat": -34.929133,
       "lng": -56.16
@@ -49,11 +49,11 @@
     "departamento": "Montevideo",
     "seccion": 3,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
+    "acceso": "Facil",
     "profundidad": 2,
     "imagenes": ["Fotos/Montevideo/pocitos.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "enganche": "2",
+    "enganche": 2,
     "suelo": "Arena, Cemento, Piedras",
     "ubicacion": {
       "lat": -34.912900,
@@ -66,11 +66,11 @@
     "departamento": "Montevideo",
     "seccion": 4,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
+    "acceso": "Facil",
     "profundidad": 3,
     "imagenes": ["Fotos/Montevideo/buceo.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "enganche": "2",
+    "enganche": 2,
     "ubicacion": {
       "lat": -34.908569,
       "lng": -56.125995
@@ -81,11 +81,11 @@
     "departamento": "Montevideo",
     "seccion": 5,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
+    "acceso": "Facil",
     "imagenes": ["Fotos/Montevideo/malvin.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "enganche": "2",
-    "profundidad": "2",
+    "enganche": 2,
+    "profundidad": 2,
     "ubicacion": {
       "lat": -34.897441,
       "lng": -56.100632
@@ -96,11 +96,11 @@
     "departamento": "Montevideo",
     "seccion":6,
     "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
+    "acceso": "Facil",
     "imagenes": ["Fotos/Montevideo/carrasco.webp"],
     "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "enganche": "1",
-    "profundidad": "1",
+    "enganche": 1,
+    "profundidad": 1,
     "ubicacion": {
       "lat": -34.886067,
       "lng": -56.043508

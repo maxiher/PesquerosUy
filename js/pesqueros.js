@@ -34,14 +34,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
             
             container.innerHTML = `
-    <h1>${titulo}</h1>
-    <img src="${foto}">
-    <p>${data[seccion].descripcion}</p>
+            <div class="info-grid">
 
-    <span class="tag" id="acceso">Acceso: ${acceso}</span>
+            <div class="info-text">
+    <h1>${titulo}</h1>
+    
+    <p id="desc">${data[seccion].descripcion}</p>
+
+    <span class="tag" id="acceso">Accesibilidad: ${acceso}</span>
     <span class="tag" id="profundidad">Profundidad: ${profundidad}</span>
     <span class="tag" id="enganche">Enganche: ${enganche}</span>
+    </div>
 
+    <div class="info-img">
+    <img src="${foto}">
+    </div>
 
     <div class="map">
         <iframe
@@ -52,16 +59,63 @@ document.addEventListener("DOMContentLoaded", () => {
         </iframe>
         <p>Lat: ${latitud}, Lng: ${longitud}</p>
     </div>
+
+    <div></div>
     `;
 
-            color('profundidad')
-            color('enganche', true)
-            color('acceso')
+            color('profundidad', profundidad)
+            color('enganche', enganche, true)
+            color('acceso', acceso)
         })
 })
 
 
-function color(elementId, invertir = false) {
+function color(elementId, valor, invertir = false) {
+    const elemento = document.getElementById(elementId);
+    if (!elemento) return;
+
+    elemento.classList.remove("rojo", "amarillo", "verde", "verdeclaro");
+
+    if (typeof valor === "string") {
+        const acceso = valor.toLowerCase();
+
+        if (acceso === "facil") {
+            elemento.classList.add("verde");
+        } else if (acceso === "medio") {
+            elemento.classList.add("amarillo");
+        } else if (acceso === "dificil") {
+            elemento.classList.add("rojo");
+        }
+
+        return; 
+    }
+
+    const num = Number(valor);
+
+    if (!invertir) {
+        // Modo normal: más alto = verde
+        if (num < 2) {
+            elemento.classList.add("rojo");
+        } else if (num === 2) {
+            elemento.classList.add("amarillo");
+        } else if (num === 3) {
+            elemento.classList.add("verdeclaro");
+        } else {
+            elemento.classList.add("verde");
+        }
+    } else {
+        // Modo invertido: más alto = rojo
+        if (num < 2) {
+            elemento.classList.add("verde");
+        } else if (num >= 2 && num < 4) {
+            elemento.classList.add("amarillo");
+        } else {
+            elemento.classList.add("rojo");
+        }
+    }
+}
+
+/*function color(elementId, num, invertir = false) {
     const elemento = document.getElementById(elementId);
 
 
@@ -69,33 +123,31 @@ function color(elementId, invertir = false) {
 
     if (!elemento) return;
 
-    const num = Number(elemento.textContent)
-
     elemento.classList.remove("rojo", "amarillo", "verde", "amarillo", "verdeclaro");
 
     if (!invertir) {
         if (num < 2) {
-            elemento.classList.add('rojo');
-        } else if (num === 2) {
-            elemento.classList.add('amarillo');
+            elemento.classList.add("rojo");
+        } else if (num === 2 || num.textContent === "Medio") {
+            elemento.classList.add("amarillo");
         } else if (num === 3) {
-            elemento.classList.add('verdeclaro')
+            elemento.classList.add("verdeclaro")
         } else {
-            elemento.classList.add('verde');
+            elemento.classList.add("verde");
         }
     } else {
-        if (num < 2 || elemento.textContent === "Facil") {
-            elemento.classList.add('verde');
-        } else if (num >= 2 && num < 4 || elemento.textContent === "Medio") {
-            elemento.classList.add('amarillo');
+        if (num < 2) {
+            elemento.classList.add("verde");
+        } else if (num >= 2 && num < 4) {
+            elemento.classList.add("amarillo");
         } else {
-            elemento.classList.add('rojo');
+            elemento.classList.add("rojo");
         }
 
     }
 }
 
-/*function paraAcceso(data[seccion].acceso){
+function paraAcceso(data[seccion].acceso){
     const elemento = 
     if (acceso === "Facil") {
 

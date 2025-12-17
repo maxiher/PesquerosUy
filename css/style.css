@@ -1,20 +1,28 @@
   
     html {
-      background-image: url('../Fotos/General/bgindex.webp');
       background-repeat: no-repeat;
       background-size: cover;
     }
     
 
     body {
+      background-color: rgb(200, 255, 237);
       font-family: Arial, sans-serif;
       margin: 0;
     }
 
     header {
-      padding: 2%;
+      padding-top: 5%;
       text-align: center;
-      height: 15vh;
+    }
+
+    #logotipe {
+      height: 8vh;
+      
+    }
+
+    #logo, #nombrelogo {
+      width: 25%;
     }
 
     h1 {
@@ -42,6 +50,7 @@
     }
 
     .card {
+      margin-top: 100px;
       background: rgb(255, 253, 235);
       border-radius: 12px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -70,4 +79,18 @@
     a {
       text-decoration: none;
       color: rgb(2, 48, 255);
+    }
+
+    .nav-item {
+      margin-right: 10%;
+    }
+
+    ul {
+      display: flex;
+    }
+
+    li {
+      width: 250px;
+      align-items: center;
+      justify-content: center1;
     }

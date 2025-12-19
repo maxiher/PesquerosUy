@@ -1,138 +1,240 @@
 [
-        {
+  {
     "nombre": "Ciudad de la Costa",
     "departamento": "Canelones",
     "seccion": 0,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "descripcion": "Para pescar en ciudad de la costa, donde se ubican los balnearios Shangrila, Lagomar, Solymar y El Pinar. Es un lugar muy concurrido por pescadores Montevideanos debido a su proximidad a la capital del país. Si bien no suele ser el lugar preferido de los pescadores mas experimentados, suelen darse buenos resultados en algunas épocas del año.",
     "acceso": "Facil",
     "profundidad": 2,
     "enganche": 1,
-    "imagenes": ["Fotos/canelones/ciudaddelacosta.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "imagenes": [
+      "Fotos/canelones/ciudaddelacosta.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola"
+    ],
     "ubicacion": {
       "lat": -34.827828,
       "lng": -55.941223
     }
-    },
-          {
-    "nombre": "Pinamar - Marindia",
+  },
+  {
+    "nombre": "Pinamar - Fortin de Sta. Rosa",
     "departamento": "Canelones",
     "seccion": 1,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "descripcion": "Desde el balneario Pinamar, pasando por Salinas hasta Marindia, nos encontramos con playas amplias, que si bien no cuentan con mucha profundidad.",
     "acceso": "Facil",
     "profundidad": 2,
     "enganche": 1,
-    "imagenes": ["Fotos/canelones/salinas.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "imagenes": [
+      "Fotos/canelones/salinas.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola"
+    ],
     "ubicacion": {
       "lat": -34.780292,
       "lng": -55.826212
     }
   },
-            {
-    "nombre": "El Águila",
+  {
+    "nombre": "Villa Argentina",
     "departamento": "Canelones",
     "seccion": 2,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "descripcion": "Frente a El Aguila, un emblematico monumento ubicado en el balneario Villa Argentina, se suelen dar muy buenas pescas ya que cuenta con algunas zonas mas profundas que las playas aledañas. ",
     "acceso": "Medio",
     "profundidad": 2,
     "enganche": 1,
-    "imagenes": ["Fotos/canelones/elaguila.webp"],
-    "especies": ["Pejerrey", "Burriqueta", "Brótola"],
+    "imagenes": [
+      "Fotos/canelones/elaguila.webp"
+    ],
+    "especies": [
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.770762,
       "lng": -55.779100
     }
   },
-
-              {
-    "nombre": "Piedra Lisa Atlántida",
+  {
+    "nombre": "Mansa de Altántida",
     "departamento": "Canelones",
     "seccion": 3,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Dificil",
+    "descripcion": "La mansa, es una playa con espigones, lo que la hace ser muy llana para la captura de la mayoría de las especies de nuestro estuario. Pero buena opción esos dias en que el viento del Este dificulta la pesca en otros pesqueros.",
+    "acceso": "Facil",
+    "profundidad": 1,
+    "enganche": 1,
+    "imagenes": [
+      "Fotos/canelones/elaguila.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Burriqueta",
+      "Brótola"
+    ],
+    "ubicacion": {
+      "lat": -34.770762,
+      "lng": -55.779100
+    }
+  },
+  {
+    "nombre": "El Cholo",
+    "departamento": "Canelones",
+    "seccion": 4,
+    "descripcion": "Frente a El Aguila, un emblematico monumento ubicado en el balneario Villa Argentina, se suelen dar muy buenas pescas ya que cuenta con algunas zonas mas profundas que las playas aledañas. ",
+    "acceso": "Facil",
     "profundidad": 2,
     "enganche": 3,
-    "imagenes": ["Fotos/canelones/piedralisa.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola", "Burriqueta", "Pescadilla"],
+    "imagenes": [
+      "Fotos/canelones/elaguila.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Burriqueta",
+      "Brótola"
+    ],
+    "ubicacion": {
+      "lat": -34.770762,
+      "lng": -55.779100
+    }
+  },
+  {
+    "nombre": "La Isla",
+    "departamento": "Canelones",
+    "seccion": 5,
+    "descripcion": "Donde comienza la playa brava de Atlántida, a unos 300 metros de la orilla se encuentra la Isla de La Sirena. Es buen pesquero porque sirve de refugio y comedero de diversas especies.",
+    "acceso": "Facil",
+    "profundidad": 3,
+    "enganche": 4,
+    "imagenes": [
+      "Fotos/canelones/elaguila.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Burriqueta",
+      "Brótola"
+    ],
+    "ubicacion": {
+      "lat": -34.770762,
+      "lng": -55.779100
+    }
+  },
+  {
+    "nombre": "Piedra Lisa Atlántida",
+    "departamento": "Canelones",
+    "seccion": 6,
+    "descripcion": "El pesquero piedra lisa es uno de los lugares mas emblemáticos del departamento y uno de los lugares mas reconocidos por los pescadores de agua salada de todo el Uruguay. Lamentablemente, ya no queda prácticamente nada del antiguo muelle de pescadores, quedando ahora un pasillo destruido y resbaloso. En este pesquero es importante identificar los pozos, para no quedar enganchados en las piedras que rodean el lugar.",
+    "acceso": "Dificil",
+    "profundidad": 3,
+    "enganche": 4,
+    "imagenes": [
+      "Fotos/canelones/piedralisa.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola",
+      "Burriqueta",
+      "Pescadilla"
+    ],
     "ubicacion": {
       "lat": -34.780904,
       "lng": -55.752544
     }
   },
-            {
-    "nombre": "Las Toscas",
+  {
+    "nombre": "Las Toscas - Parque del Plata",
     "departamento": "Canelones",
-    "seccion": 4,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "seccion": 7,
+    "descripcion": "En estos balnearios nos encontramos algunas de las mejores playas para pescar del país, con mas profundidad y abundancia de pesca. ",
     "acceso": "Fácil",
-    "profundidad": 2,
+    "profundidad": 3,
     "enganche": 2,
-    "imagenes": ["Fotos/canelones/lastoscas.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola", "Burriqueta", "Pescadilla"],
+    "imagenes": [
+      "Fotos/canelones/lastoscas.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola",
+      "Burriqueta",
+      "Pescadilla"
+    ],
     "ubicacion": {
       "lat": -34.774259,
       "lng": -55.737204
     }
   },
-            {
-    "nombre": "La Floresta",
+  {
+    "nombre": "La Floresta - Bello Horizonte",
     "departamento": "Canelones",
-    "seccion": 5,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "seccion": 8,
+    "descripcion": "desde el balneario la Floresta hasta Bello horizonte cuentan con muy buenos pesqueros para diversas especies, . Uno de los pesqueros mas reconocidos de la zona “Los Corralitos”, un pesquero excepcional para la corvina blanca, donde conviene tirar lejos y cuidarse del enganche en las rocas.",
     "acceso": "Fácil",
     "profundidad": 2,
-    "enganche": 2,
-    "imagenes": ["Fotos/canelones/lafloresta.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "enganche": 3,
+    "imagenes": [
+      "Fotos/canelones/lafloresta.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola"
+    ],
     "ubicacion": {
       "lat": -34.762564,
       "lng": -55.674646
     }
   },
-            {
-    "nombre": "Araminda",
+  {
+    "nombre": "San Luis - Sta. Lucia del Este",
     "departamento": "Canelones",
-    "seccion": 6,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "seccion": 9,
+    "descripcion": ": Desde el Balneario san Luis hasta Santa Lucia del Este, no solo podemos contar con playas hermosas de arena blanca, tambien son pesqueros muy buenos tantos por su considerable profundidad como por los comederos para los peces.",
     "acceso": "Fácil",
-    "profundidad": 2,
+    "profundidad": 3,
     "enganche": 3,
-    "imagenes": ["Fotos/canelones/araminda.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "imagenes": [
+      "Fotos/canelones/araminda.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola"
+    ],
     "ubicacion": {
       "lat": -34.788185,
       "lng": -55.556226
     }
   },
-            {
-    "nombre": "Santa Lucia del Este",
+  {
+    "nombre": "Cuchilla Alta - Jaureguiberry",
     "departamento": "Canelones",
-    "seccion": 7,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
-    "profundidad": 2,
+    "seccion": 10,
+    "descripcion": "Playas espectaculares y buena pesca caracterizan a esta parte del departamento.",
+    "acceso": "Medio",
+    "profundidad": 3,
     "enganche": 3,
-    "imagenes": ["Fotos/canelones/santaluciadeleste.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "imagenes": [
+      "Fotos/canelones/santaluciadeleste.webp"
+    ],
+    "especies": [
+      "Pejerrey",
+      "Corvina",
+      "Brótola"
+    ],
     "ubicacion": {
       "lat": -34.797635,
       "lng": -55.528556
     }
-  },
-            {
-    "nombre": "Chuchilla Alta",
-    "departamento": "Canelones",
-    "seccion": 8,
-    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
-    "acceso": "Fácil",
-    "profundidad": 2,
-    "enganche": 3,
-    "imagenes": ["Fotos/canelones/cuchillaalta.webp"],
-    "especies": ["Pejerrey", "Corvina", "Brótola"],
-    "ubicacion": {
-      "lat": -34.798130,
-      "lng": -55.497599
-    }
   }
 ]
+  

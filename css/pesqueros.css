@@ -46,6 +46,7 @@ html {
 
 #contenedor {
   padding: 16px;
+  margin-top: 5%;
 }
 
 .card {
@@ -55,25 +56,45 @@ html {
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+.info-text {
+  padding: 2%;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#desc {
+  font-size: 1.5rem;
+}
+
 .card img {
   width: 100%;
   max-width: 750px;
   border-radius: 12px;
 }
 
-
-.tag {
-  background: #000000;
-  color: #ffffff;
-  padding: 4px 8px;
-  border-radius: 3px;
-  font-size: 25px;
-  gap: 8px;
-  max-width: 200px;
-  margin: 4px;
+.info-img {
+  display: flex;
+  justify-content: center;
 }
 
+.indicadores {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.7vw;
+}
 
+.tag {
+  text-align: center;
+  background: #646464;
+  color: #000000;
+  padding: 4px;
+  border-radius: 2px;
+  font-size: 1.5rem;
+  margin-top: 2%;
+  border: 1px solid #000000;
+}
 
 .map {
   margin-top: 12px;
@@ -81,7 +102,7 @@ html {
 }
 
 .verde {
-  background-color: rgb(45, 156, 1);
+  background-color: rgb(83, 252, 120);
 }
 
 .verdeclaro {
@@ -89,7 +110,7 @@ html {
 }
 
 .amarillo {
-  background-color: rgb(238, 222, 1);
+  background-color: rgb(247, 250, 104);
 }
 
 .naranja {
@@ -97,7 +118,7 @@ html {
 }
 
 .rojo {
-  background-color: rgb(245, 29, 29);
+  background-color: rgb(247, 81, 81);
 }
 
 @media (min-width: 1080px) {

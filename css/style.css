@@ -39,8 +39,10 @@
       padding: 2rem;
     }
 
-    main > p {
-      font-size: 2vh;
+    p {
+      font-size: 3vh;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      margin-top: 3%;
     }
 
     .grid {
@@ -50,7 +52,7 @@
     }
 
     .card {
-      margin-top: 100px;
+      margin-top: 10%;
       background: rgb(255, 253, 235);
       border-radius: 12px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);

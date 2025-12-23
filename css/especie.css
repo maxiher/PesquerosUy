@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(200, 255, 237);
+}
+
+.especie-card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.especie-card {
+  transition: transform 0.2s;
+}
+
+.especie-card:hover {
+  transform: translateY(-5px);
+}

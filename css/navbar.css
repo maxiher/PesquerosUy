@@ -1,10 +1,10 @@
     header {
-      padding-top: 5% !important;
+      padding-top: 3% !important;
       text-align: center !important;
     }
 
     .navbar {
-    background-color: #2a7299 !important; /* azul de la imagen */
+    background-color: #2878a3 !important;
     min-height: 70px !important;
     max-height: 100px !important;
 }
@@ -19,7 +19,7 @@
     }
 
     #nombrelogo {
-        height: 7vh !important;
+        height: 8vh !important;
     }
 
     #navbarNav {

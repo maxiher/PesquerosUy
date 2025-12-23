@@ -8,59 +8,24 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link rel="stylesheet" href="css/pesqueros.css">
+    <link href="css/navbar.css" rel="stylesheet">
 </head>
 
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0d5e8d;">
-            <div class="container-fluid">
-
-                <a class="navbar-brand d-flex align-items-center" href="index.html" id="logotipe">
-                    <img src="Fotos/General/logo.webp" id="logo">
-                    <img src="Fotos/General/titulo.webp" id="nombrelogo">
-                </a>
-
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#"
-                                style="color: #ffffff;"><strong>Pesqueros</strong></a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" style="color: white;"><strong>Especies</strong></a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" style="color: white;"><strong>Técnicas y Equipos</strong></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <!--<nav>
-        <button id="backBtn">⬅ Atrás</button>
-        <h1></h1>
-    </nav>-->
+    <header id="navbar"></header>
 
     <main>
         <div id="contenedor" class="card">
             <!-- Aquí el JS insertará los datos del pesquero -->
-            </div>
-            
+        </div>           
     </main>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
         crossorigin="anonymous"></script>
+     <script src="js/navbar.js"></script>   
     <script src="js/pesqueros.js"></script>
+    
 </body>
 
 </html>

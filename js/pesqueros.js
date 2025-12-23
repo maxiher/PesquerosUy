@@ -9,12 +9,6 @@ const seccion = localStorage.getItem('numero')
 
 const jsonURL = `JSON/${clave}.json`
 
-
-/*El boton lleva atras
-backBtn.addEventListener("click", () => {
-    window.location = "departamento.html"
-})*/
-
 //Evento al cargar el DOM
 document.addEventListener("DOMContentLoaded", () => {
 
@@ -61,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                 </div>
 
-                <div class="info-img">
+                <div class="info-img mt-3">
                     <img src="${foto}">
                 </div>
 

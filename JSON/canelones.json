@@ -11,10 +11,13 @@
       "Fotos/canelones/ciudaddelacosta.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola"
-    ],
+      { "nombre": "Burriqueta", "nivel": 4},
+      { "nombre": "Brótola", "nivel": 3 },
+      { "nombre": "Pejerrey", "nivel": 2 },
+      { "nombre": "Tambera", "nivel": 2 },
+      { "nombre": "Corvina Blanca", "nivel": 1 },
+      { "nombre": "Anchoa", "nivel": 1 }
+      ],
     "ubicacion": {
       "lat": -34.827828,
       "lng": -55.941223
@@ -32,10 +35,13 @@
       "Fotos/canelones/salinas.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola"
-    ],
+    { "nombre": "Burriqueta", "nivel": 4 },
+    { "nombre": "Pejerrey", "nivel": 3 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Tambera", "nivel": 1 },
+    { "nombre": "Corvina Blanca", "nivel": 1 }
+  ],
     "ubicacion": {
       "lat": -34.780292,
       "lng": -55.826212
@@ -53,11 +59,12 @@
       "Fotos/canelones/elaguila.webp"
     ],
     "especies": [
-    { "nombre": "Corvina", "nivel": 4 },
-    { "nombre": "Pescadilla", "nivel": 4 },
-    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Burriqueta", "nivel": 4 },
+    { "nombre": "Pejerrey", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 3 },
+    { "nombre": "Corvina Blanca", "nivel": 2 },
     { "nombre": "Anchoa", "nivel": 1 },
-    { "nombre": "Pejerrey", "nivel": 0 }
+    { "nombre": "Tambera", "nivel": 1 }
   ],
     "ubicacion": {
       "lat": -34.770762,
@@ -76,10 +83,12 @@
       "Fotos/canelones/elaguila.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Burriqueta",
-      "Brótola"
-    ],
+    { "nombre": "Pejerrey", "nivel": 4 },
+    { "nombre": "Burriqueta", "nivel": 3 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Corvina Blanca", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.770762,
       "lng": -55.779100
@@ -97,10 +106,13 @@
       "Fotos/canelones/elaguila.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Burriqueta",
-      "Brótola"
-    ],
+    { "nombre": "Brótola", "nivel": 4 },
+    { "nombre": "Burriqueta", "nivel": 4 },
+    { "nombre": "Pejerrey", "nivel": 4 },
+    { "nombre": "Corvina Blanca", "nivel": 3 },
+    {"nombre": "Corvina Negra", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.770762,
       "lng": -55.779100
@@ -118,10 +130,12 @@
       "Fotos/canelones/elaguila.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Burriqueta",
-      "Brótola"
-    ],
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.770762,
       "lng": -55.779100
@@ -139,12 +153,12 @@
       "Fotos/canelones/piedralisa.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola",
-      "Burriqueta",
-      "Pescadilla"
-    ],
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.780904,
       "lng": -55.752544
@@ -162,12 +176,12 @@
       "Fotos/canelones/lastoscas.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola",
-      "Burriqueta",
-      "Pescadilla"
-    ],
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.774259,
       "lng": -55.737204
@@ -185,10 +199,12 @@
       "Fotos/canelones/lafloresta.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola"
-    ],
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.762564,
       "lng": -55.674646
@@ -206,10 +222,12 @@
       "Fotos/canelones/araminda.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola"
-    ],
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.788185,
       "lng": -55.556226
@@ -227,10 +245,12 @@
       "Fotos/canelones/santaluciadeleste.webp"
     ],
     "especies": [
-      "Pejerrey",
-      "Corvina",
-      "Brótola"
-    ],
+    { "nombre": "Corvina", "nivel": 4 },
+    { "nombre": "Pescadilla", "nivel": 4 },
+    { "nombre": "Brótola", "nivel": 2 },
+    { "nombre": "Anchoa", "nivel": 1 },
+    { "nombre": "Pejerrey", "nivel": 0 }
+  ],
     "ubicacion": {
       "lat": -34.797635,
       "lng": -55.528556

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link href="css/navbar.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <header id="navbar"></header>
+
+    <main>
+        <div class="container my-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+
+                    <h2 class="mb-3">¿Querés aportar o dejarnos un mensaje?</h2>
+
+                    <p class="text-muted mb-4">
+                        Si conocés algún pesquero, especie, técnica, o simplemente querés
+                        dejarnos una sugerencia o comentario, este espacio es para vos.
+                        Toda información es bienvenida.
+                    </p>
+
+                    <form>
+                        <div class="mb-3">
+                            <label class="form-label">Nombre (opcional)</label>
+                            <input type="text" class="form-control" placeholder="Tu nombre">
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Email (opcional)</label>
+                            <input type="email" class="form-control" placeholder="tu@email.com">
+                            <div class="form-text">
+                                Solo si querés que podamos responderte.
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Tipo de mensaje</label>
+                            <select class="form-select">
+                                <option selected>Elegí una opción</option>
+                                <option>Sugerencia para el sitio</option>
+                                <option>Información sobre un pesquero</option>
+                                <option>Información sobre especies</option>
+                                <option>Técnicas o equipos</option>
+                                <option>Otro comentario</option>
+                            </select>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Mensaje</label>
+                            <textarea class="form-control" rows="5"
+                                placeholder="Contanos lo que quieras, sin compromiso 🙂"></textarea>
+                            <small class="text-muted">
+                                Este sitio se construye con el aporte de pescadores y amantes de la pesca.
+                            </small>
+                        </div>
+
+
+                        <button type="submit" class="btn btn-primary">
+                            Enviar mensaje
+                        </button>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="js/navbar.js"></script>
+</body>
+
+</html>

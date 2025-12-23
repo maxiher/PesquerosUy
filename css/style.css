@@ -11,20 +11,6 @@
       margin: 0;
     }
 
-    header {
-      padding-top: 5%;
-      text-align: center;
-    }
-
-    #logotipe {
-      height: 8vh;
-      
-    }
-
-    #logo, #nombrelogo {
-      width: 25%;
-    }
-
     h1 {
       margin: 0;
       font-size: 5vh;
@@ -83,16 +69,4 @@
       color: rgb(2, 48, 255);
     }
 
-    .nav-item {
-      margin-right: 10%;
-    }
-
-    ul {
-      display: flex;
-    }
-
-    li {
-      width: 250px;
-      align-items: center;
-      justify-content: center1;
-    }
+  

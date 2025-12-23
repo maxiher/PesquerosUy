@@ -1,0 +1,44 @@
+    header {
+      padding-top: 5% !important;
+      text-align: center !important;
+    }
+
+    .navbar {
+    background-color: #2a7299 !important; /* azul de la imagen */
+    min-height: 70px !important;
+    max-height: 100px !important;
+}
+
+    #logo {
+      height: 20vh !important;
+      width: auto !important;
+    }
+
+    #logotipe {
+        height: 10vh !important;
+    }
+
+    #nombrelogo {
+        height: 7vh !important;
+    }
+
+    #navbarNav {
+        justify-content: end !important;
+    }
+
+    .nav-item {
+      text-align: center !important;
+    }
+
+    li {
+      width: 250px !important;
+    }
+
+    a {
+        color: white !important;
+    }
+
+#contenedor {
+  padding: 16px;
+  margin-top: 5%;
+}

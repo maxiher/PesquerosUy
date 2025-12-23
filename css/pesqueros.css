@@ -17,33 +17,6 @@ html {
       margin: 0;
     }
 
-    header {
-      padding-top: 5%;
-      text-align: center;
-    }
-
-    #logotipe {
-      height: 8vh;
-    }
-
-        .nav-item {
-      margin-right: 10%;
-    }
-
-    ul {
-      display: flex;
-    }
-
-    li {
-      width: 250px;
-      align-items: center;
-      justify-content: center1;
-    }
-
-    #logo, #nombrelogo {
-      width: 25%;
-    }
-
 #contenedor {
   padding: 16px;
   margin-top: 5%;

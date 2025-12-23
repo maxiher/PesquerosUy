@@ -10,33 +10,7 @@ html {
       margin: 0;
     }
 
-    header {
-      padding-top: 5%;
-      text-align: center;
-    }
-
-    #logotipe {
-      height: 8vh;
-    }
-
-        .nav-item {
-      margin-right: 10%;
-    }
-
-    ul {
-      display: flex;
-    }
-
-    li {
-      width: 250px;
-      align-items: center;
-      justify-content: center1;
-    }
-
-    #logo, #nombrelogo {
-      width: 25%;
-    }
-
+    
     .pesquero-card {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }

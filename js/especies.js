@@ -11,7 +11,7 @@ fetch(jsonURL)
 
       card.innerHTML = `
         <div class="card h-100 especie-card">
-          <img src="img/especies/${especie.imagen}" class="card-img-top" alt="${especie.nombre_comun}">
+          <img src="${especie.imagen}" class="card-img-top" alt="${especie.nombre_comun}">
           <div class="card-body">
             <h5 class="card-title">${especie.nombre_comun}</h5>
             <p class="fst-italic">${especie.nombre_cientifico}</p>

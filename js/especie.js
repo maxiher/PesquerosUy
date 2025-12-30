@@ -12,7 +12,7 @@ fetch("JSON/especies.json")
     container.innerHTML = `
       <div class="row">
         <div class="col-md-4">
-          <img src="img/especies/${especie.imagen}" class="img-fluid rounded">
+          <img src="${especie.imagen}" class="img-fluid rounded">
         </div>
 
         <div class="col-md-8">
